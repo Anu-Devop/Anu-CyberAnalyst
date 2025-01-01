@@ -1,4 +1,5 @@
-<h1>Hi, I'm Anu! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Anu! <br/><a href="https://github.com/">Cybersecurity Professional</a>, 
+  <a href="https://www.linkedin.com/in/anu-famurewa/">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
