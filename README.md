@@ -1,22 +1,23 @@
-<h1>Hi, I'm Anu! <br/><a href="https://github.com/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Anu! <br/><a href="https://github.com/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>, <a href="https://www.youtube.com/>YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## Objective
+
+My journey in computer science has led me to develop a passion for IT security, and I'm now eager to transition into this field specifically aiming to become an IT security specialist with up-to-date skills as a cybersecurity Tier 1 Analyst.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
     
 <h2>👨‍💻 Certifications:</h2> 
 [cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
