@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anu! 
-<br/><a href="https://github.com/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>,<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>,<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 ## Objectives
 I'm a soon-to-be graduate from westwern governor's university with profund interest in technology and a dedication to solving complex problems                                                                                                                                   
