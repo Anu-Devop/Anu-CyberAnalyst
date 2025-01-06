@@ -19,16 +19,16 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Malware analysis      | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability remediation                | SOC Automation Lab|
+| Wazuh to SOAR implementation | SOC Automation Lab|
 | Malware Attack diagram |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cyber deception mechanism | Honeypot Lab|
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Instructional design & technology Videos</h2>
 
-- [Phsihing email Instructional design & technology](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Phsihing email ](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
