@@ -11,7 +11,8 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 <h2>👨‍💻 Trainings:</h2> 
 (1):https://www.coursera.org/account/accomplishments/records/R7JGGY69QP59
 (2):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH 
-(3):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH
+
+(3):https://www.credly.com/badges/800efce8-b6cf-4538-bb2b-0440e6ab4af0/linked_in_profile
 
 ## Cybersecurity skills & projects
 
