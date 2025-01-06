@@ -29,7 +29,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 <h2>📺 Instructional design & technology Videos</h2>
 
-- [Phsihing email ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Phsihing email ](https://www.youtube.com/@Cybertalkk)
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
