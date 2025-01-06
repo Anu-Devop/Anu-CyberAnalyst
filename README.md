@@ -2,7 +2,7 @@
 <br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>,<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 ## Objectives
-I'm a soon-to-be graduate from westwern governor's university with profund interest in technology and a dedication to solving complex problems.                                                                     My journey in computer science has led me to develop a passion for IT security, and I'm now eager to transition into this field specifically aiming to become an IT security specialist with up-to-date skills as a cybersecurity Tier 1 Analyst.
+I'm a soon-to-be graduate from westwern governor's university with profund interest in technology and a dedication to solving complex problems.                                                                     My journey in network and security has led me to develop a passion for IT security, and I'm now eager to transition into this field specifically aiming to become an IT security specialist with up-to-date skills as a cybersecurity Tier 1 Analyst.
 
 <h2>👨‍💻 Certifications:</h2> 
 [cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
@@ -23,7 +23,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Attack diagram | SOC Automation Lab|
+| Attack diagram |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
     
@@ -36,15 +36,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
