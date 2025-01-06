@@ -17,14 +17,15 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Malware analysis      | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Vulnerability remediation                | SOC Automation Lab|
-| Wazuh to SOAR implementation | SOC Automation Lab|
-| Malware Attack diagram |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
-| Cyber deception mechanism | Honeypot Lab|
+| Malware analysis                                | SOC Automation Lab|
+| Incident Response Planning and Execution        | SOC Automation Lab|
+| Vulnerability remediation                       | SOC Automation Lab|
+| Wazuh to SOAR implementation                    | SOC Automation Lab|
+| Malware Attack diagram                          |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
+| Cyber deception mechanism                       | Honeypot Lab|
+| Home Lab - Sandbox environment                  |Identify indicators of compromise|
 
 <h2>📺 Instructional design & technology Videos</h2>
 
