@@ -23,7 +23,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Attack diagram |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
+| Malware Attack diagram |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 <h2>📺 Popular YouTube Videos</h2>
