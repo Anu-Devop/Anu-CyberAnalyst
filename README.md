@@ -5,8 +5,15 @@
 
 My journey in computer science has led me to develop a passion for IT security, and I'm now eager to transition into this field specifically aiming to become an IT security specialist with up-to-date skills as a cybersecurity Tier 1 Analyst.
 
-## Cybersecurity skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<h2>👨‍💻 Certifications:</h2> 
+[cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
+[cert2]:https://www.credly.com/badges/de7d1248-d0e1-4c6a-9ff0-1225be81e3b4/linked_in_profile 
+
+<h2>👨‍💻 Trainings:</h2> 
+(1):https://www.coursera.org/account/accomplishments/records/R7JGGY69QP59
+(2):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH 
+
+## Cybersecurity skills & projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,11 +23,11 @@ My journey in computer science has led me to develop a passion for IT security, 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Attack diagram | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
     
-<h2>👨‍💻 Certifications:</h2> 
-[cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
-[cert2]:https://www.credly.com/badges/de7d1248-d0e1-4c6a-9ff0-1225be81e3b4/linked_in_profile 
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
