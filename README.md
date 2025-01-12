@@ -19,7 +19,7 @@ As a soon-to-be graduate from Western Governors University, I am deeply passiona
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
+| Phishing Attack Analysis                      | <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main"></a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Malware Attack diagram                          |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
 | Cyber deception mechanism                       | Honeypot Lab|
@@ -27,7 +27,7 @@ As a soon-to-be graduate from Western Governors University, I am deeply passiona
 
 <h2> Projects </h2>
 
-- Instructional diagram of Phishing email attack
+- <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main">Phishing email</a>
 - Malware Attack diagram
 - Malware Analysis lab
 
