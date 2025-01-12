@@ -20,16 +20,11 @@ As a soon-to-be graduate from Western Governors University, I am deeply passiona
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Attack Analysis                      |  <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main">Phishing email</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Malware Attack diagram                          |<a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
-| Cyber deception mechanism                       | Honeypot Lab|
-| Home Lab - Sandbox environment                  |Identify indicators of compromise|
+| Network  Attack Detection                     |  <a href="https://google.com">Detection Lab</a>|
+| Malware Attack diagram                        |  <a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
+| Cyber deception mechanism                     | Honeypot Lab|
+| Malware Analysis lab                          |Identify indicators of compromise|
 
-<h2> Projects </h2>
-
-- <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main">Phishing email</a>
-- Malware Attack diagram
-- Malware Analysis lab
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
