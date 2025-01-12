@@ -14,6 +14,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 (3):https://www.credly.com/badges/800efce8-b6cf-4538-bb2b-0440e6ab4af0/linked_in_profile
 
+
 ## Cybersecurity skills & projects
 
 | Skill                                         | Associated Project         |
@@ -32,12 +33,9 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...  Ethical Hacking With Python, JavaScript and Kali Linux
 - 👯 I’m looking to collaborate on ... Security projects
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
 - 📫 How to reach me: ... anu_remmy@yahoo.com
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...I love science/technology and politics
+
