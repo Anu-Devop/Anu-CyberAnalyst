@@ -26,7 +26,7 @@ I'm a soon-to-be graduate from westwern governor's university with profund inter
 
 <h2> Projects </h2>
 
-- Instructional diagram of Phishing email
+- Instructional diagram of Phishing email attack
 - Malware Attack diagram
 - Malware Analysis lab
 
