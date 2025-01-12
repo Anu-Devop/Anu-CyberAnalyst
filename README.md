@@ -2,7 +2,7 @@
 <br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>,<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 ## Objectives
-I'm a soon-to-be graduate from westwern governor's university with profund interest in technology and a dedication to solving complex problems.                                                                     My journey in network and security has led me to develop a passion for IT security, and I'm now eager to transition into this field specifically aiming to become an IT security specialist with up-to-date skills as a cybersecurity Tier 1 Analyst.
+As a soon-to-be graduate from Western Governors University, I am deeply passionate about technology and committed to solving complex challenges. My academic journey in networking and security has cultivated a strong interest in IT security. I am now focused on transitioning into the field as a dedicated IT Security Specialist, leveraging my knowledge and pursuing up-to-date skills to excel as a Tier 1 Cybersecurity Analyst.
 
 <h2>👨‍💻 Certifications:</h2> 
 [cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
