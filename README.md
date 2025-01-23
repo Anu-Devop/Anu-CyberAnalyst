@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anu! 
-<br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>,<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a>
 
 ## Objectives
 As a soon-to-be graduate from Western Governors University, I am deeply passionate about technology and committed to solving complex challenges. My academic journey in networking and security has cultivated a strong interest in IT security. I am now focused on transitioning into the field as a dedicated IT Security Specialist, leveraging my knowledge and pursuing up-to-date skills to excel as a Tier 1 Cybersecurity Analyst.
