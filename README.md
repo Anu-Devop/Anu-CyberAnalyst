@@ -22,7 +22,7 @@ As a soon-to-be graduate from Western Governors University, I am deeply passiona
 | Phishing Attack using social engineering                     |  <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main">Phishing email</a> |
 | Network  Attack Detection                                    |  <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis lab (Identify indicators of compromise)     |  <a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
-| Cyber deception mechanism                                    | Honeypot Lab|
+| Vulnerability assessment                                     | Honeypot Lab|
 
 
 
