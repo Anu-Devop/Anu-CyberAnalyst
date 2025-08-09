@@ -48,6 +48,16 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 🔒 Setting Up a Personal VPN Server – Secure remote connections using WireGuard/OpenVPN
 
 
+
+- 🧰 Tools & Skills
+- 🖥️ VirtualBox, VMware, AWS Free Tier
+- 🧪 Wireshark, Nmap, Metasploit
+- 🔐 Wazuh, Suricata, Elastic Stack
+- 🐧 Linux, macOS, Windows
+- 📄 Markdown, Git, GitHub
+
+
+
 <h2> 🤳 Connect & get to know more about me:</h2>
 
 - 🌱 I’m currently learning ...  Cybersecurity and Artificial Intelligence
