@@ -21,7 +21,7 @@ Each project is designed to replicate real-world scenarios, using industry tools
 <br/>✅ Setting Up a Virtual Home Lab (on macOS and Windows)
 ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
-<h2>🔍 Reconnaissance & Threat Analysis<h2/>
+<h2> 🔍 Reconnaissance & Threat Analysis </h2>h2>
   
 - 🌐 Footprinting – Passive and active info gathering
 - 🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
