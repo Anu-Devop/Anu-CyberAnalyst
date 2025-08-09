@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anu!...(mercy) 
+<h1>Anu Famurewa -IT Auditor | GRC Analyst | RMF Analyst | TPRM | Network+ | Security+ 
 <br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a> , <a href="https://www.youtube.com/@Cybertalkk/">Youtube</a>
 
 ## Objectives
