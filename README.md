@@ -13,14 +13,14 @@ Solution-focused and dedicated GRC Policy Analyst | Cybersecurity Analyst with y
 (2):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH 
 
 
-<br/>My Cybersecurity Projects
-Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
+<br/><h1>My Cybersecurity Projects
+<h2>Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
 
 <br/>🧪 Lab Environments
 ✅ Setting Up a Virtual Home Lab (on macOS and Windows)
 ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
-<br/>🔍 Reconnaissance & Threat Analysis
+<br/><h2>🔍 Reconnaissance & Threat Analysis
 🌐 Footprinting – Passive and active info gathering
 🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
 🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
