@@ -22,11 +22,15 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - ✅ Setting Up a Virtual Home Lab (on macOS and Windows)
 - ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
+---
+
 <h2> 🔍 Reconnaissance & Threat Analysis </h2>
   
 - 🌐 Footprinting – Passive and active info gathering
 - 🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
 - 🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
+
+  ---
 
 <h2> 🚨 Threat Detection & Monitoring </h2>
 
@@ -35,6 +39,7 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 🛡️ Suricata IDS Setup – Intrusion detection using signature-based rules
 - 🧲 Honeypot Deployment – Detecting and analyzing attacker behavior
 
+---
 
 <h2> 🔬 Malware & Exploit Analysis </h2>
 
