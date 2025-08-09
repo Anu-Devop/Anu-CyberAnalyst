@@ -49,7 +49,8 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 
 
-- 🧰 Tools & Skills
+  <h2> 🧰 Tools & Skills </h2>
+  
 - 🖥️ VirtualBox, VMware, AWS Free Tier
 - 🧪 Wireshark, Nmap, Metasploit
 - 🔐 Wazuh, Suricata, Elastic Stack
