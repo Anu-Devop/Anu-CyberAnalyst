@@ -19,8 +19,8 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 <h2>🧪 Lab Environments </h2>
   
-✅ Setting Up a Virtual Home Lab (on macOS and Windows)
-☁️ Cloud Home Lab Setup (for scalable, remote testing)
+- ✅ Setting Up a Virtual Home Lab (on macOS and Windows)
+- ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
 <h2> 🔍 Reconnaissance & Threat Analysis </h2>
   
@@ -50,9 +50,9 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
-- 🌱 I’m currently learning ...  Ethical Hacking With Python, JavaScript, and Kali Linux
-- 👯 I’m looking to collaborate on ... Security projects
-- 📫 How to reach me: ... anu_remmy@yahoo.com
+- 🌱 I’m currently learning ...  Cybersecurity and Artificial Intelligence
+- 👯 I’m looking to collaborate on ... System Security projects ( from categorization, implementation to monitoring)
+- 📫 How to reach me: ... anu_remmy@yahoo.com and https://www.linkedin.com/in/anu-famurewa/
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I love science/technology and politics
 
