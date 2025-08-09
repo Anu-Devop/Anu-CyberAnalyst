@@ -44,7 +44,8 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 
 <h2> 🔐 Network Security </h2>
-🔒 Setting Up a Personal VPN Server – Secure remote connections using WireGuard/OpenVPN
+
+-🔒 Setting Up a Personal VPN Server – Secure remote connections using WireGuard/OpenVPN
 
 
 <h2> 🤳 Connect & get to know more about me:</h2>
