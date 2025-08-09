@@ -1,4 +1,4 @@
-<h1>Anu Famurewa -CyberSecurity Analyst| Network+ | Security+ 
+<h1>Anu Famurewa - CyberSecurity Analyst| Network+ | Security+ 
 <br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a> , <a href="https://www.youtube.com/@Cybertalkk/">Youtube</a>
 
 <h2> Objectives </h2> 
@@ -87,4 +87,7 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 📫 How to reach me: ... anu_remmy@yahoo.com and https://www.linkedin.com/in/anu-famurewa/
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I love science/technology and politics
+
+ – “Cybersecurity is not just a skill — it's a mindset.”_  
+ – Anu Famurewa
 
