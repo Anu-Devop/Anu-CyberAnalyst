@@ -37,8 +37,11 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 
 <h2> 🔬 Malware & Exploit Analysis </h2>
-🧾 Malicious PDF Analysis – Dissecting payloads and embedded scripts
-🧟 Malware Analysis – Using tools like Ghidra and VirusTotal
+
+- 🧾 Malicious PDF Analysis – Dissecting payloads and embedded scripts
+- 🧟 Malware Analysis – Using tools like Ghidra and VirusTotal
+
+
 
 <h2> 🔐 Network Security </h2>
 🔒 Setting Up a Personal VPN Server – Secure remote connections using WireGuard/OpenVPN
