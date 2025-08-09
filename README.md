@@ -12,17 +12,17 @@ Solution-focused and dedicated GRC Policy Analyst | Cybersecurity Analyst with y
 (1):https://www.coursera.org/account/accomplishments/records/R7JGGY69QP59
 (2):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH 
 
-(3):https://www.credly.com/badges/800efce8-b6cf-4538-bb2b-0440e6ab4af0/linked_in_profile
 
+My Cybersecurity Projects
+Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
 
-## Cybersecurity skills & projects
-
-| Skills                                                       | Associated Project         |
-|--------------------------------------------------------------|----------------------------|
-| Phishing Attack using social engineering                     |  <a href="https://github.com/Anu-Devop/Phishing-Email/tree/main">Phishing email</a> |
-| Network  Attack Detection                                    |  <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis lab (Identify indicators of compromise)     |  <a href="https://(https://app.diagrams.net/)">Attack diagram </a>|
-| Vulnerability assessment                                     | Honeypot Lab|
+🧪 Lab Environments
+✅ Setting Up a Virtual Home Lab (on macOS and Windows)
+☁️ Cloud Home Lab Setup (for scalable, remote testing)
+🔍 Reconnaissance & Threat Analysis
+🌐 Footprinting – Passive and active info gathering
+🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
+🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
 
 
 
