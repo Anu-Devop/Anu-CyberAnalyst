@@ -13,12 +13,13 @@ Solution-focused and dedicated GRC Policy Analyst | Cybersecurity Analyst with y
 (2):https://www.coursera.org/account/accomplishments/records/A5G2BHNWLXEH 
 
 
-<h1>My Cybersecurity Projects
+<h1> My Cybersecurity Projects </h2>
 Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. 
 Each project is designed to replicate real-world scenarios, using industry tools and best practices.
 
-<h2>🧪 Lab Environments<h2/>
-<br/>✅ Setting Up a Virtual Home Lab (on macOS and Windows)
+<h2>🧪 Lab Environments </h2>
+  
+✅ Setting Up a Virtual Home Lab (on macOS and Windows)
 ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
 <h2> 🔍 Reconnaissance & Threat Analysis </h2>
