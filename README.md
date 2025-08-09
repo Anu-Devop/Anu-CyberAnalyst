@@ -2,7 +2,7 @@
 <br/><a href="https://github.com/">Cybersecurity Professional</a> : <a href="https://www.linkedin.com/in/anu-famurewa/">LinkedIn</a> , <a href="https://www.youtube.com/@Cybertalkk/">Youtube</a>
 
 ## Objectives
-As a soon-to-be graduate from Western Governors University, I am deeply passionate about technology and committed to solving complex challenges. My academic journey in networking and security has cultivated a strong interest in IT security. I am now focused on transitioning into the field as a dedicated IT Security Specialist, leveraging my knowledge and pursuing up-to-date skills to excel as a Tier 1 Cybersecurity Analyst.
+Solution-focused and dedicated GRC Policy Analyst | Cybersecurity Analyst with years of experience in developing and implementing effective security policies, procedures, and controls to protect organizations from cyber threats. Proven ability to work collaboratively with cross-functional teams to ensure compliance with various security frameworks such as HIPAA, PCI-DSS, TPRM, ISO 27001, SOX, and SOC. Skilled in conducting security assessments, risk analyses, and audits to identify vulnerabilities and recommend appropriate controls using National Institute of Standards and Technology (NIST) Special Publications 800-53, 800- 53A, 800-60, 800-30, 800-37, 800-171, FIPS 199, FIPS 200.
 
 <h2>👨‍💻 Certifications:</h2> 
 [cert1]:https://www.credly.com/badges/20fd9751-1b14-4b18-8953-79303efccf49/linked_in_profile 
