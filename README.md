@@ -28,7 +28,18 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
 - 🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
 
+<h2> 🚨 Threat Detection & Monitoring </h2>
+📊 SIEM Setup with Wazuh – Centralized log analysis and alerting
+🔎 Elastic SIEM Setup – Kibana dashboards and threat hunting
+🛡️ Suricata IDS Setup – Intrusion detection using signature-based rules
+🧲 Honeypot Deployment – Detecting and analyzing attacker behavior
 
+<h2> 🔬 Malware & Exploit Analysis </h2>
+🧾 Malicious PDF Analysis – Dissecting payloads and embedded scripts
+🧟 Malware Analysis – Using tools like Ghidra and VirusTotal
+
+<h2> 🔐 Network Security </h2>
+🔒 Setting Up a Personal VPN Server – Secure remote connections using WireGuard/OpenVPN
 
 
 <h2> 🤳 Connect & get to know more about me:</h2>
