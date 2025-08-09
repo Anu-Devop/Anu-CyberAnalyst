@@ -82,11 +82,11 @@ Each project is designed to replicate real-world scenarios, using industry tools
 
 <h2> 🤳 Connect & get to know more about me:</h2>
 
-- 🌱 I’m currently learning ...  Cybersecurity and Artificial Intelligence
-- 👯 I’m looking to collaborate on ... System Security projects ( from categorization, implementation to monitoring)
-- 📫 How to reach me: ... anu_remmy@yahoo.com and https://www.linkedin.com/in/anu-famurewa/
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I love science/technology and politics
+- 💡 I’m currently learning ...  Cybersecurity and Artificial Intelligence
+- 👩‍👩‍👦‍👦 I’m looking to collaborate on ... System Security projects ( from categorization, implementation to monitoring)
+- 📫 How to reach me: ... ✉️anu_remmy@yahoo.com and 💼 https://www.linkedin.com/in/anu-famurewa/
+- 👩 Pronouns: ...She/Her
+- 💻 Fun fact: ...I love science/technology and politics
 
  > – “Cybersecurity is not just a skill — it's a mindset.”_  
  >  – Anu Famurewa
