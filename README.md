@@ -29,6 +29,7 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
 
 <h2> 🚨 Threat Detection & Monitoring </h2>
+
 - 📊 SIEM Setup with Wazuh – Centralized log analysis and alerting
 - 🔎 Elastic SIEM Setup – Kibana dashboards and threat hunting
 - 🛡️ Suricata IDS Setup – Intrusion detection using signature-based rules
