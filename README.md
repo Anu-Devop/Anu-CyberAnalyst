@@ -22,9 +22,11 @@ Each project is designed to replicate real-world scenarios, using industry tools
 ☁️ Cloud Home Lab Setup (for scalable, remote testing)
 
 <h2>🔍 Reconnaissance & Threat Analysis<h2/>
-🌐 Footprinting – Passive and active info gathering
-🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
-🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
+  
+- 🌐 Footprinting – Passive and active info gathering
+- 🐟 Phishing Email Analysis – Identifying spoofed domains, headers, and payloads
+- 🧫 Vulnerability Assessment – Using tools like OpenVAS, Nessus, and Nmap
+
 
 
 
