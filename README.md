@@ -93,6 +93,6 @@ Each project is designed to replicate real-world scenarios, using industry tools
 - 👩 Pronouns: ...She/Her
 - 💻 Fun fact: ...I love science/technology and politics
 
- > – “Cybersecurity is not just a skill — it's a mindset.”_  
+ > – “Cybersecurity is not just a skill — it's a mindset.”  
  >  – Anu Famurewa
 
